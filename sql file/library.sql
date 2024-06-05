@@ -41,7 +41,7 @@ CREATE TABLE `admin` (
 --
 
 INSERT INTO `admin` (`id`, `FullName`, `AdminEmail`, `UserName`, `Password`, `updationDate`) VALUES
-(1, 'Kumar Pandule', 'kumarpandule@gmail.com', 'admin', 'e6e061838856bf47e1de730719fb2609', '2021-06-28 16:06:08');
+(1, 'Anurag Dadhich', 'Anuragdadhich2005@gmail.com', 'admin', 'e6e061838856bf47e1de730719fb2609', '2021-06-28 16:06:08');
 
 -- --------------------------------------------------------
 
@@ -61,12 +61,7 @@ CREATE TABLE `tblauthors` (
 --
 
 INSERT INTO `tblauthors` (`id`, `AuthorName`, `creationDate`, `UpdationDate`) VALUES
-(1, 'Kumar Pandule', '2017-07-08 12:49:09', '2021-06-28 16:03:28'),
-(2, 'Kumar', '2017-07-08 14:30:23', '2021-06-28 16:03:35'),
-(3, 'Rahul', '2017-07-08 14:35:08', '2021-06-28 16:03:43'),
-(4, 'HC Verma', '2017-07-08 14:35:21', NULL),
-(5, 'R.D. Sharma ', '2017-07-08 14:35:36', NULL),
-(9, 'fwdfrwer', '2017-07-08 15:22:03', NULL);
+
 
 -- --------------------------------------------------------
 
